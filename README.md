@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Assets/Header Bearbeitet.png" alt="Header" width="100%" height="100%"/>
+  <img src="./Assets/Header Bearbeite.png" alt="Header" width="100%" height="100%"/>
 
 
 <p align="center">
