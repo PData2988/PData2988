@@ -1,5 +1,7 @@
 
 
+<p align="center">
+  <img src="./Assets/Header Bearbeitet.png" alt="Header" width="100%" height="100%"/>
 
 <p align="center">
   :wave:  Ich bin ein angehender Data Analyst mit einer großen Neugier für Daten und alles, was man aus ihnen herausholen kann.  
