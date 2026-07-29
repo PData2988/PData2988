@@ -36,5 +36,5 @@
 <h3>Certifications</h3> 
 <h2>Power BI</h2> 
 <p align="left">
- <img src="./Assets/microsoft-certified-associate-badge.svg" height="100" alt="Postgres" style="margin-right:8px;" /><img src="./Assets/T-SQL_logo.png" height="100" alt="Postgres" style="margin-right:8px;" />
+ <img src="./Assets/microsoft-certified-associate-badge.svg" height="100" alt="Postgres" style="margin-right:8px;" />
 </p>
